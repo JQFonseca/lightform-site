@@ -1,5 +1,6 @@
 ---
 layout: article
+title: Embedding Materials Engineering in Manufacturing with Light Metals
 permalink: /
 image:
   feature: lightform_logo.png
