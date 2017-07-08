@@ -4,7 +4,7 @@ permalink: /
 image:
   feature: lightform_logo.png
 ---
-# Another title
+# 
 
 # Embedding Materials Engineering in Manufacturing with Light Metals
 
