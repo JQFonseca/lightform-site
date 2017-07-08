@@ -1,0 +1,21 @@
+# Site navigation links
+
+ - title: People
+   url: /people/
+   excerpt: "Team members"
+   image: logo_d.gif
+
+ - title: About
+   url: /about/
+   excerpt: "LightForm"
+   image: logo_d.gif
+
+ - title: The programme
+   url: /approach/
+   excerpt: "Embedding materials science in light alloy forming "
+   image: logo_d.gif
+
+ - title: Industrial partners
+   url: /partners/
+   excerpt: "Embedding materials science in light alloy forming "
+   image: logo_d.gif
