@@ -4,6 +4,8 @@ permalink: /
 image:
   feature: lightform_logo.png
 ---
+#
+
 # Embedding Materials Engineering in Manufacturing with Light Metals
 
 _LightForm_ is a 5 year multidisciplinary project with £4.8m (£5.9 FEC) core support from the EPSRC programme grant scheme, led by Manchester University with partners at Cambridge and Imperial College, London.
