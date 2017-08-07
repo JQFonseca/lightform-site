@@ -7,7 +7,7 @@ image:
 ---
 
 
-![Rolls-Royce plc]()/images/rollsroyce_logo.png)
+![Rolls-Royce plc](/images/rollsroyce_logo.png)
 
 ![Airbus](airbus_logo.png)
 
