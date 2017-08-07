@@ -2,7 +2,7 @@
 layout: article
 permalink: /approach/
 image:
-  feature: methodology.png
+  feature: methodology.jpg
 ---
 
 We aim to provide UK industry with the enabling research for a new holistic approach that will lead to a step change in the cost-effective production of more mass-efficient and recyclable light alloy components. This will be realised through intelligently embedding materials engineering into the forming processes that shape components, by delivering the following core scientific objectives:

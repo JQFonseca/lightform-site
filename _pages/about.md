@@ -2,7 +2,7 @@
 layout: article
 permalink: /about/
 image:
-  feature: modelling_approach.png
+  feature: modelling_approach.jpg
 ---
 
 At the heart of our approach will be the development of more accurate simulations, supported by new state of the art 3D multiscale and time resolved in-situ analysis methods. This will allow us to accurately predict shape, microstructure, and properties in dynamically evolving complex materials systems.
