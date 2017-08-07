@@ -1,6 +1,7 @@
 ---
 layout: article
 permalink: /about/
+title: 'Our approach'
 image:
   feature: modelling_approach.jpg
 ---

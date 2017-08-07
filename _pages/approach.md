@@ -1,6 +1,7 @@
 ---
 layout: article
 permalink: /approach/
+title: 'Our programme'
 image:
   feature: methodology.jpg
 ---

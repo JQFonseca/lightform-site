@@ -1,6 +1,7 @@
 ---
 layout: article
 permalink: /
+title: 'LighttForm: Embedding materials engineering in advanced light alloy manufacturing'
 image:
   feature: lightform_logo.png
 ---
