@@ -1,7 +1,8 @@
 ---
 layout: article
 permalink: /partners/
-
+image:
+  feature: blades.jpg
 ---
 
 HRMITH
