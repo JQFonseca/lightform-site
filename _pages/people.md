@@ -2,6 +2,8 @@
 layout: default
 permalink: /people/
 title: 'Our team'
+image:
+    feature: manchester_uni.jpg
 ---
 
 # The University of Manchester
