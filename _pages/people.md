@@ -6,7 +6,7 @@ image:
   feature: manchester_uni.jpg
 ---
 
-# The University of Manchester
+## The University of Manchester
 
 [Prof Phil Prangnell (director)](https://www.research.manchester.ac.uk/portal/philip.prangnell.html)
 
@@ -22,7 +22,7 @@ image:
 
 [Dr Chris Race](https://www.research.manchester.ac.uk/portal/christopher.race.html)
 
-# Imperial College London
+## Imperial College London
 
 [Prof Jianguo Lin](http://www.imperial.ac.uk/people/jianguo.lin)
 
@@ -30,6 +30,6 @@ image:
 
 [Dr Jun Jiang](http://www.imperial.ac.uk/collegedirectory/index.asp?PeopleID=565793)
 
-# University of Cambridge
+## University of Cambridge
 
 [Dr Hugh Shercliff](http://www.eng.cam.ac.uk/profiles/hs10000)
