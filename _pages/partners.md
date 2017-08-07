@@ -1,7 +1,7 @@
 ---
 layout: article
 permalink: /partners/
-title: Our partners
+title: 'Our partners'
 image:
   feature: blades.jpg
 ---
