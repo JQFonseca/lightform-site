@@ -16,7 +16,6 @@ image:
 ![Gestamp]({{site.url}}/images/gestamp_logo.png)
 ![Hydro]({{site.url}}/images/hydro_logo.png)
 ![Primetals]({{site.url}}/images/primetals_logo.png)
-![Stadco]({{site.url}}/images/stadco_logo.png)
 ![TIMET]({{site.url}}/images/timet_logo.png)
 ![Crown]({{site.url}}/images/crown_logo.png)
 ![Jaguar]({{site.url}}/images/jaguar_logo.png)
