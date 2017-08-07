@@ -1,11 +1,16 @@
 # Site navigation links
 
+ - title: Home
+   url: /
+   excerpt: "Lightform"
+   image: logo_d.gif
+
  - title: People
    url: /people/
    excerpt: "Team members"
    image: logo_d.gif
 
- - title: About
+ - title: Our approach
    url: /about/
    excerpt: "LightForm"
    image: logo_d.gif
