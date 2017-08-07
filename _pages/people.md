@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: article
 permalink: /people/
 title: 'Our team'
 image:
