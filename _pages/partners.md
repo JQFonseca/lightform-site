@@ -7,42 +7,42 @@ image:
 ---
 
 
-![/images/rollsroyce_logo.png](Rolls-Royce plc)
+![Rolls-Royce plc]()/images/rollsroyce_logo.png)
 
-![airbus_logo.png](Airbus)
+![Airbus](airbus_logo.png)
 
-![aleris_logo.png](Aleris)
+![Aleris](aleris_logo.png)
 
-![baesystems_logo.png](BAES)
+![BAES](baesystems_logo.png)
 
-![hermith_logo.png](HERMITH)
+![HERMITH](hermith_logo.png)
 
-![bombardier_logo.png](Bombardier)
+![Bombardier](bombardier_logo.png)
 
-![constellium_logo.png](Constellium)
+![Constellium](constellium_logo.png)
 
-![gestamp_logo.png](Gestamp)
+![Gestamp](gestamp_logo.png)
 
-![hydro_logo.png](Hydro)
+![Hydro](hydro_logo.png)
 
-![primetals_logo.png](Primetals)
+![Primetals](primetals_logo.png)
 
-![stadco_logo.png](Stadco)
+![Stadco](stadco_logo.png)
 
-![timet_logo.png](TIMET)
+![TIMET](timet_logo.png)
 
-![crown_logo.png](Crown)
+![Crown](crown_logo.png)
 
-![jaguar_logo.png](Jaguar)
+![Jaguar](jaguar_logo.png)
 
-![mek_logo.png](Magnesium Elektron)
+![Magnesium Elektron](mek_logo.png)
 
-![superform_logo.png](Superform)
+![Superform](superform_logo.png)
 
 ![ottofuchs_logo.png](Otto Fuchs)
 
-![magna_logo.png](Magna)
+![Magna](magna_logo.png)
 
-![apt_logo.png](apt)
+![apt](apt_logo.png)
 
-![benteler_logo.png](benteler)
+![benteler](benteler_logo.png)
