@@ -6,30 +6,43 @@ image:
   feature: blades.jpg
 ---
 
-HRMITH
 
-Rolls-Royce
+![rollsroyce_logo.png](Rolls-Royce plc)
 
-Airbus
+![airbus_logo.png](Airbus)
 
-BAES
+![aleris_logo.png](Aleris)
 
-Bombardier
+![baesystems_logo.png](BAES)
 
-Constellium
+![hermith_logo.png](HERMITH)
 
-Gestamp
+![bombardier_logo.png](Bombardier)
 
-Hydro
+![constellium_logo.png](Constellium)
 
-Primetals
+![gestamp_logo.png](Gestamp)
 
-Rolls-Royce
+![hydro_logo.png](Hydro)
 
-Stadco
+![primetals_logo.png](Primetals)
 
-TIMET
+![stadco_logo.png](Stadco)
 
-WMG
+![timet_logo.png](TIMET)
 
-Crown
+![crown_logo.png](Crown)
+
+![jaguar_logo.png](Jaguar)
+
+![mek_logo.png](Magnesium Elektron)
+
+![superform_logo.png](Superform)
+
+![ottofuchs_logo.png](Otto Fuchs)
+
+![magna_logo.png](Magna)
+
+![apt_logo.png](apt)
+
+![benteler_logo.png](benteler)
