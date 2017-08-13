@@ -5,7 +5,7 @@ title: 'Embedding materials engineering in advanced manufacturing with light all
 image:
   feature: mg_strain_4.png
 ---
-
+![Our logos]({{site.url}}/images/logos.png)
 _LightForm_ is a 5 year multidisciplinary project with £4.8m (£5.9 FEC) core support from the EPSRC programme grant scheme, led by Manchester University with partners at Cambridge and Imperial College, London.
 
 Our vision is to provide the enabling science that will allow UK industry to achieve a step-change in the performance of the next generation of wrought, light-alloy, formed components, and innovate in the move to a more sustainable, circular, economy and digital integration in manufacturing.
