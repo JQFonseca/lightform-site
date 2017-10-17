@@ -28,7 +28,7 @@ The LightFrom launch event will take place on **Thursday 19th of October** in Th
 
 12:30 	*Industrial requirements for knowledge-based Ti forming* - Prof. David Rugg (Rolls-Royce)
 
-12:45 	*Data management and reproducibility* – Nicolas Gruel (Manchester)
+12:45 	*Data management and reproducibility* – Dr Nicolas Gruel (Manchester)
 
 **13:00 	Lunch**
 
