@@ -1,7 +1,7 @@
 ---
 layout: article
 permalink: /
-title: 'Light_Form_ Launch Event'
+title: 'LightForm Launch Event'
 image:
   feature: modelling_approach.jpg
 ---
@@ -10,7 +10,7 @@ The LightFrom launch event will take place on Thursday the 19th of October in Th
 
 ## Programme
 
-*10:00 	Registration*
+**10:00 	Registration**
 
 10:25 	Welcome – Prof. Phil Prangnell (Manchester)
 
@@ -18,7 +18,7 @@ The LightFrom launch event will take place on Thursday the 19th of October in Th
 
 11:00 	Approach and Modelling framework – Dr João Quinta da Fonseca (Manchester)
 
-*11:30 	Coffee*
+**11:30 	Coffee**
 
 11:45 	MEME examples and research needs –  Prof Jianguo Lin (Imperial)
 
@@ -30,10 +30,10 @@ The LightFrom launch event will take place on Thursday the 19th of October in Th
 
 12:45 	Data management and reproducibility – Nicolas Gruel (Manchester)
 
-*13:00 	Lunch*
+**13:00 	Lunch**
 
 14:00 	Partners Workshop Brief – Prof. Joe Robson (Chair)
 
 14:10 	Partners Workshop session Expectations Opportunities
 
-*15:30 	Sum up – close*
+**15:30 	Sum up – close**
