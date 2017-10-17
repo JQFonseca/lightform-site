@@ -3,7 +3,7 @@ layout: article
 permalink: /
 title: 'LightForm Launch Event'
 image:
-  feature: modelling_approach.jpg
+  feature: launch.jpg
 ---
 
 The LightFrom launch event will take place on Thursday the 19th of October in The National Graphene Institute (NGI) Seminar Room. The NGI is situated on Booth St E, Manchester M13 9EP, and is building 90 in the [interactive campus map.](http://www.manchester.ac.uk/discover/maps/interactive-map/?id=435)
