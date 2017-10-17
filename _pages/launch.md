@@ -16,7 +16,7 @@ The LightFrom launch event will take place on **Thursday 19th of October** in Th
 
 10:30 	*LightForm overview*
 
-11:00 	*Approach and Modelling framework* – Dr João Quinta da Fonseca (Manchester)
+11:00 	*Approach and modelling framework* – Dr João Quinta da Fonseca (Manchester)
 
 **11:30 	Coffee**
 
@@ -32,8 +32,8 @@ The LightFrom launch event will take place on **Thursday 19th of October** in Th
 
 **13:00 	Lunch**
 
-14:00 	*Partners Workshop Brief* – Prof. Joe Robson (Chair)
+14:00 	*Partners workshop brief* – Prof. Joe Robson (Chair)
 
-14:10 	*Partners Workshop session* Expectations Opportunities
+14:10 	*Partners workshop session* - Expectations and opportunities
 
 **15:30 	Sum up – close**
