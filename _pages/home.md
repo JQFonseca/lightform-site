@@ -1,6 +1,6 @@
 ---
 layout: article
-permalink: /
+permalink: /home/
 title: 'Embedding materials engineering in advanced manufacturing with light alloys'
 image:
   feature: mg_strain_3.png
