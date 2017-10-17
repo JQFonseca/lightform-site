@@ -12,28 +12,28 @@ The LightFrom launch event will take place on Thursday the 19th of October in Th
 
 **10:00 	Registration**
 
-10:25 	Welcome – Prof. Phil Prangnell (Manchester)
+10:25 	*Welcome* – Prof. Phil Prangnell (Manchester)
 
-10:30 	LightForm overview
+10:30 	*LightForm overview*
 
-11:00 	Approach and Modelling framework – Dr João Quinta da Fonseca (Manchester)
+11:00 	*Approach and Modelling framework* – Dr João Quinta da Fonseca (Manchester)
 
 **11:30 	Coffee**
 
-11:45 	MEME examples and research needs –  Prof Jianguo Lin (Imperial)
+11:45 	*MEME examples and research needs* –  Prof Jianguo Lin (Imperial)
 
-12:00 	**Market trends and research needs for the next generation of aluminium-based automotive and aerospace formed products** - Dr Tim Warner (Constellium)
+12:00 	*Market trends and research needs for the next generation of aluminium-based automotive and aerospace formed products* - Dr Tim Warner (Constellium)
 
-12:15 	**Recent developments and challenges in Al/Ti forming** - Dr Richard Hunt (Impression Technologies)
+12:15 	*Recent developments and challenges in Al/Ti forming* - Dr Richard Hunt (Impression Technologies)
 
-12:30 	**Industrial requirements for knowledge-based Ti forming** - Prof. David Rugg (Rolls-Royce)
+12:30 	*Industrial requirements for knowledge-based Ti forming* - Prof. David Rugg (Rolls-Royce)
 
-12:45 	**Data management and reproducibility** – Nicolas Gruel (Manchester)
+12:45 	*Data management and reproducibility* – Nicolas Gruel (Manchester)
 
 **13:00 	Lunch**
 
-14:00 	**Partners Workshop Brief** – Prof. Joe Robson (Chair)
+14:00 	*Partners Workshop Brief* – Prof. Joe Robson (Chair)
 
-14:10 	**Partners Workshop session** Expectations Opportunities
+14:10 	*Partners Workshop session* Expectations Opportunities
 
 **15:30 	Sum up – close**
