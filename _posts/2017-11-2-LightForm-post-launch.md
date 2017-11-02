@@ -2,13 +2,11 @@
 layout: article
 title:  "LighForm Launch"
 date:   2017-10-10 09:00:00
-categories: jekyll update
-
 image:
   feature: launch.jpg
 ---
 
-Presentations from launch day are now available for download:
+Presentations from the launch day are now available for download:
 
 [Vision](https://www.dropbox.com/s/dankvyi7o4uskmj/LightForm-vision-PBP_Final%20%28Compressed%29.pdf?dl=1)
 
