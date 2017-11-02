@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: article
 title:  "LighForm Launch"
 date:   2017-10-10 09:00:00
 categories: jekyll update
