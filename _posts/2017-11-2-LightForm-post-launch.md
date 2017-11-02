@@ -1,6 +1,6 @@
 ---
 layout: article
-title:  "LighForm Launch"
+title:  "LightForm Launch"
 date:   2017-11-02 09:00:00
 categories: articles
 
