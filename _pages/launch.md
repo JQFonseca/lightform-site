@@ -1,6 +1,6 @@
 ---
 layout: article
-permalink: /
+permalink: /launch/
 title: 'LightForm Launch Event'
 image:
   feature: launch.jpg
