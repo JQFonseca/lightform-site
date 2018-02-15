@@ -7,7 +7,7 @@ image:
 ---
 
 
-![ESI]{{site.url}}/images/esi_logo.png)
+![ESI]({{site.url}}/images/esi_logo.png)
 ![Rolls-Royce plc]({{site.url}}/images/rollsroyce_logo.png) ![Airbus]({{site.url}}/images/airbus_logo.png)
 ![Aleris]({{site.url}}/images/aleris_logo.png)
 ![BAES]({{site.url}}/images/baesystems_logo.png)
